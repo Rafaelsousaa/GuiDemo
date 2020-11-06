@@ -18,8 +18,8 @@ public class GuiDemo {
         // TODO code application logic here
 
         System.out.println("helloworld");
-        System.out.println("helloworld");
-        System.out.println("helloworld");
+        System.out.println("alfgo");
+        System.out.println("s");
     }
 
 }
