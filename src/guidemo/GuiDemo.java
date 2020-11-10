@@ -21,11 +21,10 @@ public class GuiDemo {
         System.out.println("alfgo");
         System.out.println("s");
           System.out.println("s");
+
           System.out.println("Hello Rafael ");
           System.out.println("I think it is rigth");
           System.out.println("Testando");
-          System.out.println("leandro tsts");
-          System.out.println("branche 2");
-    }
+          System.out.println("leandro tst
         
 }
