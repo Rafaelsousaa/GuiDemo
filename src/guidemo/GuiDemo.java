@@ -21,7 +21,7 @@ public class GuiDemo {
         System.out.println("alfgo");
         System.out.println("s");
           System.out.println("s");
-          sasa
+          System.out.println("sassasasa");
     }
 
 }
